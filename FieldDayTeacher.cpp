@@ -49,6 +49,6 @@ int main()
 
         packet >> grade5Score >> grade6Score >> grade7Score >> grade8Score;
 
-        cout << grade6Score << grade7Score << grade8Score;
+        cout << grade5Score << grade6Score << grade7Score << grade8Score;
     }
 }
